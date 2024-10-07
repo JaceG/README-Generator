@@ -34,7 +34,7 @@ To run tests, use the following command: npm test
 For any questions, please contact me at jace.galloway@gmail.com. You can also find my GitHub profile at [JaceG](https://github.com/JaceG).
 
 ## Credits
- Credits: This project was created as part of a coding bootcamp challenge. - Sources and References: Portions of the code and guidance were provided with assistance from ChatGPT, an AI language model developed by OpenAI.
+ Credits: This project was created as part of a coding bootcamp challenge. - Sources and References: Portions of the code and guidance were provided with assistance from ChatGPT, Copilot, and other students.
 
  ## Screenrecording Video
 https://drive.google.com/drive/folders/14SxIFK5OkULclpT9rS5iMv6qplleJJgT?usp=sharing
